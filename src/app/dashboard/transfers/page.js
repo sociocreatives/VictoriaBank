@@ -1,10 +1,9 @@
 import UserAccount from '@/app/components/UserAccount'
 import React from 'react'
 
-export default function Tasks() {
-
-    return (
-        <div className="main-home">
+export default function Transfers() {
+  return (
+    <div className="main-home">
             <div className="shots">
                 <p className='listitems'>Dashboard / Tasks</p>
                 <p className="greetings">Welcome Back</p>
@@ -14,18 +13,18 @@ export default function Tasks() {
                 <UserAccount/>
 
                 <div className='submenus'>
-                    <h3>Tasks List</h3>
+                    <h3>Transfers</h3>
                     <ul>
-                        <li>Pending Transactions</li>
-                        <li>In Process Transactions</li>
-                        <li>Initiated Transactions</li>
-                        <li>Rejected Transactions</li>
+                        <li>Add Beneficiary</li>
+                        <li>View Beneficiary</li>
+                        <li>Within Bank</li>
+                        <li>Own Accounts</li>
                     </ul>
                 </div>
 
             </div>
             <div className="">
-                Taklist      </div>
+                Transfers      </div>
         </div>
-    )
+  )
 }

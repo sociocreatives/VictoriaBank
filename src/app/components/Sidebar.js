@@ -64,13 +64,13 @@ const Sidebar = () => {
                                 <span className="sidebar__name">Account Summary</span>
                                 <span className="tooltiptext">Account Summary</span>
                             </li></Link>
-                            <li className="sidebar__item">
+                            <Link href="/dashboard/transfers"><li className="sidebar__item">
                                 <span className="sidebar__icon">
                                     <BiTransfer />
                                 </span>
                                 <span className="sidebar__name">Transfers</span>
                                 <span className="tooltiptext">Transfers </span>
-                            </li>
+                            </li></Link>
                             <li className="sidebar__item">
                                 <span className="sidebar__icon">
                                     <BiCreditCard />

@@ -28,7 +28,7 @@ export default function Home() {
           <div className="inputbox"><input type="text" placeholder="User ID" name="userid" /><FaRegUserCircle /></div>
           <div className="inputbox"><input type="password" placeholder="Password" name="password" /><MdOutlineLock /></div>
 
-          <Link href="/otp"><button type="submit">LOGIN</button></Link>
+          <Link href="/dashboard"><button type="submit">LOGIN</button></Link>
         </form>
         <div className="forgot">
         <p>Forgot Password</p>

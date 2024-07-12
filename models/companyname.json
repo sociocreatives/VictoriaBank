@@ -1,0 +1,14 @@
+[
+    {
+        "companyId": "1",
+        "companyName": "-- Select Company --"
+    },
+    {
+        "companyId": "2",
+        "companyName": "SAFARICOM"
+    },
+    {
+        "companyId": "3",
+        "companyName": "AIRTEL"
+    }
+]

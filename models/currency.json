@@ -1,0 +1,14 @@
+[
+    {
+        "currencyId": "1",
+        "currencyName": "-- Select Currency --"
+    },
+    {
+        "currencyId": "2",
+        "currencyName": "KES"
+    },
+    {
+        "currencyId": "3",
+        "currencyName": "USD"
+    }
+]

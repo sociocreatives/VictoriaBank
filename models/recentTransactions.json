@@ -1,0 +1,37 @@
+[
+    {
+      "transactionId": "VCB09217",
+      "accountNumber": "0031004979573",
+      "transactionType": "Debit",
+      "amount": 20000,
+      "transactionDate": "2024-06-07T09:40:14.134304"
+    },
+    {
+      "transactionId": "VCB11792",
+      "accountNumber": "0031004979573",
+      "transactionType": "Debit",
+      "amount": 10000,
+      "transactionDate": "2024-06-07T09:39:39.761967"
+    },
+    {
+      "transactionId": "VCB56329",
+      "accountNumber": "0031004979573",
+      "transactionType": "Debit",
+      "amount": 6500,
+      "transactionDate": "2024-06-07T09:36:55.000081"
+    },
+    {
+      "transactionId": "VCB29369",
+      "accountNumber": "0031004979573",
+      "transactionType": "Credit",
+      "amount": 6500,
+      "transactionDate": "2024-06-07T09:36:09.482145"
+    },
+    {
+      "transactionId": "VCB50425",
+      "accountNumber": "0031004979573",
+      "transactionType": "Credit",
+      "amount": 4500,
+      "transactionDate": "2024-06-07T09:35:55.658994"
+    }
+  ]

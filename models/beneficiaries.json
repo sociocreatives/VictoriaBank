@@ -1,0 +1,30 @@
+[
+    {
+        "fullName": "--Select Beneficiary --",
+        "email": "ayaraerick@gmail.com",
+        "phoneNumber": "2676778",
+        "nationalId": 354,
+        "cif": "54228240"
+    },
+    {
+        "fullName": "Eliud Njogu Kariuki",
+        "email": "ayaraerick@gmail.com",
+        "phoneNumber": "2676778",
+        "nationalId": 344,
+        "cif": "54628240"
+    },
+    {
+        "fullName": "Josphat Eyanae",
+        "email": "eyanaejosh@gmail.com",
+        "phoneNumber": "22344",
+        "nationalId": 4450,
+        "cif": "546442"
+    },
+    {
+        "fullName": "Evans Odhiambo",
+        "email": "eyanaejosh@gmail.com",
+        "phoneNumber": "22304",
+        "nationalId": 4460,
+        "cif": "546442"
+    }
+]

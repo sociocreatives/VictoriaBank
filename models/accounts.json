@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "accountName": "Josphat Eyanae",
+        "accountNumber": "0031004979573",
+        "accountCode": "100",
+        "accountType": "Personal",
+        "branchCode": "003",
+        "balance": 129500,
+        "currency": "KES"
+    },
+    {
+        "id": 2,
+        "accountName": "Josphat Eyanae",
+        "accountNumber": "0032011600412",
+        "accountCode": "201",
+        "accountType": "Current",
+        "branchCode": "003",
+        "balance": 234500,
+        "currency": "KES"
+    },
+    {
+        "id": 3,
+        "accountName": "Josphat Eyanae",
+        "accountNumber": "0032010107140",
+        "accountCode": "201",
+        "accountType": "Personal",
+        "branchCode": "003",
+        "balance": 10000,
+        "currency": "USD"
+    },
+    {
+        "id": 4,
+        "accountName": "Josphat Eyanae",
+        "accountNumber": "0031003640568",
+        "accountCode": "100",
+        "accountType": "Personal",
+        "branchCode": "003",
+        "balance": 20000,
+        "currency": "KES"
+    },
+    {
+        "id": 6,
+        "accountName": "Josphat Eyanae",
+        "accountNumber": "174string8806615",
+        "accountCode": "string",
+        "accountType": "Savings",
+        "branchCode": "174",
+        "balance": 0,
+        "currency": "KES"
+    }
+]
